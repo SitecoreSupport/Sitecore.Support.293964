@@ -50,12 +50,12 @@
       <HintPath>..\packages\SC.Sitecore.Mvc.9.0.2\lib\Sitecore.Mvc.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.Common">
-      <HintPath>..\packages\SXA82.Sitecore.XA.Foundation.Common.1.7.1\lib\Sitecore.XA.Foundation.Common.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.Common, Version=3.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SXA90.Sitecore.XA.Foundation.Common.1.8.0\lib\Sitecore.XA.Foundation.Common.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.PlaceholderSettings, Version=2.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SXA82.Sitecore.XA.Foundation.PlaceholderSettings.1.7.1\lib\Sitecore.XA.Foundation.PlaceholderSettings.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.PlaceholderSettings, Version=3.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SXA90.Sitecore.XA.Foundation.PlaceholderSettings.1.8.0\lib\Sitecore.XA.Foundation.PlaceholderSettings.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
